@@ -18,10 +18,6 @@ Well you can simply contact the owner of it, or if the server has been down for 
 SSL Uses Secure WS connection, whilst No SSL uses standard WS.
 Tho, if you want to use the SSL lavalink you need to make sure your bot uses that protocol.
 
-### Why Spring boot logo?
-
-Because lavalink is made using springboot.
-
 ### How can I share my server?
 
 Just open a pull request and I will merge it!
