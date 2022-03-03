@@ -28,7 +28,7 @@ Just open a pull request and I will merge it!
 
 ### Where is this site hosted?
 
-The site is hosted @ [Cloudflare pages](https://pages.dev)
+The site is hosted @ [Replit](https://replit.com)
 
 
 ### I want to help redesign the site, how and what software do I use?
