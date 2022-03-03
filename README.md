@@ -21,8 +21,8 @@
 
 
 
-## Dear all lavalink hosting owner.
-If you can please join this [discord server](https://discord.gg/GWynmGRwpD) so that If your lavalink goes down I or someone else can contact you easily. Thanks and have a nice day!
+## Dear all lavalink hosting owners.
+If you can please join this [discord server](https://discord.gg/GWynmGRwpD) so if your lavalink goes down I or someone else can contact you easily. Thanks and have a nice day!
 
 
 ### If you find this useful give it a star ⭐️
