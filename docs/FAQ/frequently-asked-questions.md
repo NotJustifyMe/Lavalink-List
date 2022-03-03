@@ -15,7 +15,7 @@ Put it as anything, it doesn't matter as long as it's one sentence and there's n
 Well you can simply contact the owner of it, or if the server has been down for 7 days you can make a Pull Request removing the server completely
 
 ### What is the difference between `NoSSL` and `SSL`
-SSL Uses Secure WS connection, whilst No SSL uses standard WS.
+SSL Uses Secure WS connection, while No SSL uses standard WS.
 Tho, if you want to use the SSL lavalink you need to make sure your bot uses that protocol.
 
 ### How can I share my server?
