@@ -35,10 +35,8 @@ These lavalink are group into two different categories.
 SSL one needed `”secure”` to be set to true at client side, whilst the one without SSL should work out of the box
 
 
-## Hosting guide:
+## Hosting guide
 
 For MacOS, Windows, or Linux: [https://www.youtube.com/watch?v=N9n4my85W50](https://www.youtube.com/watch?v=N9n4my85W50)
 
 For Repl.it: [https://discord.gg/GWynmGRwpD(https://discord.gg/GWynmGRwpD)
-
----
