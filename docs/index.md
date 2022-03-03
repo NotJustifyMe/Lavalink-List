@@ -1,9 +1,9 @@
 <div align="center">
   <a href="https://github.com/DarrenOfficial/lavalink-list">
-    <img src="https://darrennathanael.com/cdn/springtext.svg" alt="Logo" width="350" height="80">
+    <img src="https://cdn.discordapp.com/icons/905075946426613760/a_b4d47f7be31abeb7bb5c871a13de8610.gif" alt="Logo" width="350" height="80">
   </a>
 
-<h3 align="center">lavalink list</h3>
+<h3 align="center">DECΩDERS™ LavaLink List</h3>
 
   <p align="center">
     A list of free and available public lavalink. Feel free to make a pull request!
