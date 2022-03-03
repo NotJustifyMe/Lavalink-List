@@ -9,13 +9,13 @@
     A list of free and available public lavalink. Feel free to make a pull request!
     <br />
     <br />
-    <a href="https://github.com/DarrenOfficial/lavalink-list/pulls">Create PR</a>
+    <a href="https://github.com/NotJustifyMe/Lavalink-List/pulls">Create PR</a>
     ·
-    <a href="https://github.com/DarrenOfficial/lavalink-list/issues">Report Bug</a>
+    <a href="https://github.com/NotJustifyMe/Lavalink-List/issues">Report Bug</a>
     ·
-    <a href="https://github.com/DarrenOfficial/lavalink-list/issues">Request Feature</a>
+    <a href="https://github.com/NotJustifyMe/Lavalink-List/issues">Request Feature</a>
     ·
-    <a href="https://github.com/DarrenOfficial/lavalink-list/graphs/contributors">Contributors</a>
+    <a href="https://github.com/NotJustifyMe/Lavalink-List/graphs/contributors">Contributors</a>
   </p>
 </div>
 
@@ -37,14 +37,8 @@ SSL one needed `”secure”` to be set to true at client side, whilst the one w
 
 ## Hosting guide:
 
-For MacOS, Windows, or Linux: [darrennathanael.com/post/how-to-lavalink/](https://darrennathanael.com/post/how-to-lavalink/)
+For MacOS, Windows, or Linux: [https://www.youtube.com/watch?v=N9n4my85W50](https://www.youtube.com/watch?v=N9n4my85W50)
 
-For Repl.it: [github.com/DarrenOfficial/lavalink-replit](https://github.com/DarrenOfficial/lavalink-replit)
+For Repl.it: [https://discord.gg/GWynmGRwpD(https://discord.gg/GWynmGRwpD)
 
 ---
-### TunnelBroker / Ratelimit Guide
-
-For default "networks" [darrennathanael.com/post/tunnelbroker-lavalink-ifup-ifdown/](https://darrennathanael.com/post/tunnelbroker-lavalink-ifup-ifdown/)
-
-For Netplan [darrennathanael.com/post/tunnelbroker-lavalink-netplan/](https://darrennathanael.com/post/tunnelbroker-lavalink-netplan/)
-
