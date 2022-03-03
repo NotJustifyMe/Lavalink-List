@@ -53,10 +53,10 @@ nav:
 extra:
   social:
     - icon: 'fontawesome/brands/twitter'
-      link: 'https://twitter.com/darrenuselinux'
+      link: 'https://twitter.com'
     - icon: 'fontawesome/brands/github-alt'
-      link: 'https://github.com/darrenofficial' 
+      link: 'https://github.com/NotJustifyMe' 
     - icon: 'fontawesome/brands/discord'
-      link: 'https://discord.darrennathanael.com'
+      link: 'https://discord.gg/GWynmGRwpD'
   generator: false
 copyright: 'Copyright &copy; 2022 DECΩDERS™ Credits : DarrenOfficial'
