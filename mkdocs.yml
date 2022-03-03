@@ -1,6 +1,6 @@
-site_name: lavalink hosting
-site_author: DarrenOfficial
-site_url: https://lavalink.darrennathanael.com
+site_name: DECΩDERS™ LavaLinks
+site_author: DECΩDERS™
+site_url: https://getalavalink.tk
 site_description: List of free lavalink servers! If you have lavalink that you can share feel free to make a pull request! A standalone audio sending node based on Lavaplayer and JDA-Audio. Allows for sending audio without it ever reaching any of your shards.
 repo_name: 'lavalink list'
 repo_url: 'https://github.com/DarrenOfficial/lavalink-list'
@@ -9,7 +9,7 @@ edit_uri: 'https://github.com/DarrenOfficial/lavalink-list/edit/main/docs'
 
 theme: 
   name: 'material'
-  logo: 'https://cdn.darrennathanael.com/assets/java/springboot.svg'
+  logo: 'https://cdn.discordapp.com/icons/905075946426613760/a_b4d47f7be31abeb7bb5c871a13de8610.gif'
   include_search_page: false
   search_index_only: true
   palette:
@@ -20,7 +20,7 @@ theme:
     text: 'Poppins'
     code: 'Source Code Pro'
   favicon:
-    'https://cdn.darrennathanael.com/assets/lavalinklist/favicon.ico'
+    'https://cdn.discordapp.com/icons/905075946426613760/a_b4d47f7be31abeb7bb5c871a13de8610.gif'
   features:
     - tabs
     - instantsite
@@ -59,4 +59,4 @@ extra:
     - icon: 'fontawesome/brands/discord'
       link: 'https://discord.darrennathanael.com'
   generator: false
-copyright: 'Copyright &copy; 2020 - 2022 Darren Nathanael'
+copyright: 'Copyright &copy; 2022 DECΩDERS™ Credits : DarrenOfficial'
