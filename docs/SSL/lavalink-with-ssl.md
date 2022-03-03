@@ -4,28 +4,26 @@ description: SSL Uses Secure WS connection, whilst No SSL uses standard WS. if y
 ---
 
 ---
-Hosted by @ [OGGY#9889](https://bit.ly/freelavalink)
+Hosted by @ [✯ Just#0001](https://bit.ly/freelavalink)
 ```bash
-Host : connect.freelavalink.ga
+Host : node1.getalavalink.tk
 Port : 443
-Password : "www.freelavalink.ga"
-Secure : true
+Password : "decoders"
+secure : true
 ```
 
-Hosted by [Cobalt](https://github.com/cobaltgit)
+Hosted by @ [✯ Just#0001](https://bit.ly/freelavalink)
 ```bash
-Host: lavalink.cobaltonline.net
-Port: 443
-Password: "cobaltlavanode23@"
-Secure: true
+Host : node2.getalavalink.tk
+Port : 443
+Password : "decoders"
+secure : true
 ```
 
-Hosted by @ [MiTask#0062](https://github.com/MrMasrozYTLIVE)
-
-Repl.it Lavalink:
+Hosted by @ [✯ Just#0001](https://bit.ly/freelavalink)
 ```bash
-Host : lavalink.scpcl.site
+Host : node3.getalavalink.tk
 Port : 443
-Password : "lvserver"
-Secure : true
+Password : "decoders"
+secure : true
 ```
