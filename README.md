@@ -1,6 +1,6 @@
 <div align="center">
-  <a href="https://github.com/DarrenOfficial/lavalink-list">
-    <img src="https://darrennathanael.com/cdn/springtext.svg" alt="Logo" width="350" height="80">
+  <a href="https://github.com/NotJustifyMe/Lavalink-List">
+    <img src="https://cdn.discordapp.com/icons/905075946426613760/a_b4d47f7be31abeb7bb5c871a13de8610.gif" alt="Logo" width="350" height="80">
   </a>
 
 <h3 align="center">Lavalink List</h3>
