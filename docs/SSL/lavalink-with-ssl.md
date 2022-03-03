@@ -4,7 +4,7 @@ description: SSL Uses Secure WS connection, whilst No SSL uses standard WS. if y
 ---
 
 ---
-Hosted by @ [✯ Just#0001](https://bit.ly/freelavalink)
+Hosted by @ [✯ Just#0001](https://discord.gg/GWynmGRwpD)
 ```bash
 Host : node1.getalavalink.tk
 Port : 443
@@ -12,7 +12,7 @@ Password : "decoders"
 secure : true
 ```
 
-Hosted by @ [✯ Just#0001](https://bit.ly/freelavalink)
+Hosted by @ [✯ Just#0001](https://discord.gg/GWynmGRwpD)
 ```bash
 Host : node2.getalavalink.tk
 Port : 443
@@ -20,7 +20,7 @@ Password : "decoders"
 secure : true
 ```
 
-Hosted by @ [✯ Just#0001](https://bit.ly/freelavalink)
+Hosted by @ [✯ Just#0001](https://discord.gg/GWynmGRwpD)
 ```bash
 Host : node3.getalavalink.tk
 Port : 443
