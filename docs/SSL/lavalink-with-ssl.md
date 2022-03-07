@@ -27,3 +27,21 @@ Port : 443
 Password : "decoders"
 secure : true
 ```
+Hosted by @ [MR EXTINCT CODES]
+```bash
+Id : Main 
+Host : www.lavalinknodepublic.ml
+Port : 443
+Password : "mrextinctcodes"
+secure : true
+```
+Hosted by @ [MR EXTINCT CODES]
+```bash
+Id : Main 
+Host : www.lavalinknodepublic2.ml
+Port : 443
+Password : "mrextinctcodes"
+secure : true
+```
+
+
