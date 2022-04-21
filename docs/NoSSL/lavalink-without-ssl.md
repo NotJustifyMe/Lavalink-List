@@ -3,8 +3,10 @@ title: Lavalink without SSL
 description: Without SSL should work out of the box!
 ---
 
----
-Pull A Request To Get A Lavalink Added
+Hosted by @ [OGGY#9889](https://www.freelavalink.ga)
 ```bash
-Pull A Request To Get A Lavalink Added
+Host : lavalink.oops.wtf
+Port : 2000
+Password : "www.freelavalink.ga"
+secure : false
 ```
